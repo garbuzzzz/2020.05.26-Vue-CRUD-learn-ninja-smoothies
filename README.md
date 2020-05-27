@@ -1,3 +1,6 @@
+Проект выложен на хостинг firebase:
+https://ninga-smoothies-8c1e5.firebaseapp.com/#/
+
 # ninja-smoothies
 
 ## Project setup
